@@ -47,8 +47,8 @@
 
 1.  **Клонируйте репозиторий:**
     ```bash
-    git clone https://github.com/EdvardCode/pc-remote-bot.git
-    cd pc-remote-bot
+    git clone https://github.com/EdvardCode/pchelpbot.git
+    cd pchelpbot
     ```
 
 2.  **Установите библиотеки:**
