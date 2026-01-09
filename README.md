@@ -47,7 +47,7 @@
 
 1.  **Клонируйте репозиторий:**
     ```bash
-    git clone https://github.com/ВАШ_НИК/pc-remote-bot.git
+    git clone https://github.com/EdvardCode/pc-remote-bot.git
     cd pc-remote-bot
     ```
 
